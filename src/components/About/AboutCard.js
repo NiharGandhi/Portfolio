@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nihar Gandhi </span>
             .<span className="purple"> </span>
             <br />
-            I am currently studying Computer Science with Marketing at RIT, Dubai.
+            I am currently studying  <span className="purple">B.Sc. Computing & Information Technology</span> at Rochester Institute  of Technology, Dubai.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
