@@ -12,12 +12,12 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiPostgresql,
-  SiAdobelightroom,
   SiPytorch,
   SiJavascript,
   SiCss3,
   SiHtml5,
   SiMysql,
+  SiTensorflow,
 } from "react-icons/si";
 
 function Techstack() {
@@ -57,7 +57,7 @@ function Techstack() {
         <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAdobelightroom />
+        <SiTensorflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
